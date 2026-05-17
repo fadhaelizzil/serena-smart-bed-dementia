@@ -77,8 +77,8 @@ https://github.com/user-attachments/assets/33fc01e3-d849-4a3a-9206-f58e1fb68345
    git clone [https://github.com/fadhaelizzil/serena-smart-bed-dementia.git](https://github.com/fadhaelizzil/serena-smart-bed-dementia.git)
 2. Open the .ino file in the /src directory using Arduino IDE.
 3. Replace the placeholder credentials with your actual Wi-Fi SSID, Password, and IFTTT Webhook Key:
-    const char* ssid = "YOUR_WIFI_SSID";
-    const char* password = "YOUR_WIFI_PASSWORD";
-    const char* ifttt_key = "YOUR_IFTTT_WEBHOOK_KEY";
+   * const char* ssid = "YOUR_WIFI_SSID";
+   * const char* password = "YOUR_WIFI_PASSWORD";
+   * const char* ifttt_key = "YOUR_IFTTT_WEBHOOK_KEY";
 4. Calibrate the load cells using a known weight factor and flash the code onto your NodeMCU microcontroller.
 5. Place the weight sensor assembly securely under the bed frame posts as documented in the /hardware directory.
