@@ -59,7 +59,7 @@ The system systematically runs continuous diagnostic loops to monitor the patien
 
 ### Video Demo
 
-![Video Demo of Prototype](images/demo-serena.mp4)
+https://github.com/user-attachments/assets/33fc01e3-d849-4a3a-9206-f58e1fb68345
 
 ---
 
