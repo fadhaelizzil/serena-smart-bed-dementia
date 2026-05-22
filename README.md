@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Hardware-NodeMCU%20%7C%20ESP8266-blue?style=for-the-badge&logo=espressif" alt="Hardware">
   <img src="https://img.shields.io/badge/Software-Arduino%20IDE%20%7C%20IFTTT-orange?style=for-the-badge&logo=arduino" alt="Software">
   <img src="https://img.shields.io/badge/Award-Bronze%20Medal%20(International)-brown?style=for-the-badge" alt="Award">
-  <img src="https://img.shields.io/badge/Cost-~Rp200k%20($13%20USD)-green?style=for-the-badge" alt="Cost">
+  <img src="https://img.shields.io/badge/Cost-~Rp200k%20($13%20USD)-pink?style=for-the-badge" alt="Cost">
   <img src="https://img.shields.io/badge/SDG-No.%203%20Health%20%26%20Well--being-green?style=for-the-badge" alt="SDG">
 </p>
 
